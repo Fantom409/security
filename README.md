@@ -16,7 +16,7 @@ Security package provides a set of classes to handle common security-related tas
 
 [![Latest Stable Version](https://poser.pugx.org/yiisoft/security/v/stable.png)](https://packagist.org/packages/yiisoft/security)
 [![Total Downloads](https://poser.pugx.org/yiisoft/security/downloads.png)](https://packagist.org/packages/yiisoft/security)
-[![Build Status](https://github.com/yiisoft/security/workflows/build/badge.svg)](https://github.com/yiisoft/security/actions)
+[![Build Status](https://github.com/Fantom409/security/workflows/build/badge.svg)](https://github.com/Fantom409/security/actions)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/yiisoft/security/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/yiisoft/security/?branch=master)
 [![Code coverage](https://scrutinizer-ci.com/g/yiisoft/security/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/yiisoft/security/?branch=master)
 [![static analysis](https://github.com/Fantom409/security/workflows/static%20analysis/badge.svg)](https://github.com/Fantom409/security/actions?query=workflow%3A%22static+analysis%22)
